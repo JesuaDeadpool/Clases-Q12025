@@ -11,5 +11,6 @@ namespace Clases_Q12025
         public String? Nombre { get; set; }
         public int NumeroEspecie { get; set; }
         public string? Caracteristicas { get; set; } 
+
     }
 }
